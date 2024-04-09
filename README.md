@@ -1,4 +1,5 @@
-- 👋 Oi, me chamo Emmanuel Nascimento
+### olá!! Eu sou o Emmanuel Nascimento
+
 - 👀 Cursando Sistemas da Informação
 - 🌱 Aprendento HTML/SCSS/JavaScript
 - 💞️ Amo Progamar Front-end
@@ -12,4 +13,5 @@
 <div> 
   <a href="https://www.instagram.com/emmanuel_nascimento19/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   <a href = "mailto:emmanuel.nascimento19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  
 </div>
