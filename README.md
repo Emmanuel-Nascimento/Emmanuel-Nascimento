@@ -1,4 +1,4 @@
-### olá!! Eu sou o Emmanuel Nascimento
+### Olá!! Eu sou o Emmanuel Nascimento
 
 - 👀 Cursando Sistemas da Informação
   
